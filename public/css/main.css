@@ -1,0 +1,17 @@
+
+.card {
+    display: flex;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.nav-item {
+    margin-right: 25px;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
